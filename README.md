@@ -23,8 +23,9 @@
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b> Projects </b> 
 
-<p> He trabajado en proyectos de Análisis de Datos, lo que me llevó a crear mis primeros proyectos personales de Backend, consumir APIs para visualizar datos en página empresarial, contribuir en aportes al backend de aplicaciones de Ecommerce y Validación de Información </p>
+<p> He trabajado en proyectos de Análisis de Datos, gestionando y analizando datos para departamentos de Logística y Producción. Esto lo que me llevó a crear mis primeros proyectos personales de Backend.
 
+Tengo experiencia en crear APIs modernas para sistemas de gestión de datos y conocimiento en sistemas de pago. Mis primeros proyectos fueron: consumir APIs para visualizar datos en página empresarial, contribuir en aportes al backend de aplicaciones de Ecommerce y Validación de Información. </p>
 
 ## 📬 Contact me
 
