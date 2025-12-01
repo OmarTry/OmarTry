@@ -23,7 +23,7 @@
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b> Projects </b> 
 
-<p> He trabajado en proyectos de Análisis de Datos, lo que me llevó a crear mis primeros proyectos personales de Backend, consumir APIs para visualizar datos en página empresarial, contribuir en aportes al backend de aplicaciones de Ecommerce y Validación de Información. Las referencias </p>
+<p> He trabajado en proyectos de Análisis de Datos, lo que me llevó a crear mis primeros proyectos personales de Backend, consumir APIs para visualizar datos en página empresarial, contribuir en aportes al backend de aplicaciones de Ecommerce y Validación de Información </p>
 
 
 ## 📬 Contact me
