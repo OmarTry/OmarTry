@@ -2,11 +2,11 @@
 
 
 ## <picture><img src = "https://github.com/OmarTry/OmarTry/blob/main/tomioka%20chibi%20(1).png"  width="80px"></picture> About me
-<p>👋 Hola, soy Omar, Desarrollador Web Backend, estudiante de 5to semestre de Ingeniería Eléctrica con mención en Telecomunicaciones en la Universidad Central de Venezuela.
+<p>👋 Hola, soy Omar, Desarrollador de Software, estudiante de 5to semestre de Ingeniería Eléctrica con mención en Telecomunicaciones en la Universidad Central de Venezuela.
 
-💻 Mi formación profesional se complementa con una sólida experiencia como Desarrollador Backend. He adquirido habilidades en el desarrollo y mantenimiento de plataformas web robustas, incluyendo e-commerce y sistemas de monitoreo, utilizando tecnologías como NestJS, Python (Django) y bases de datos SQL/NoSQL. Mi experiencia se centra en la arquitectura de software, la automatización de procesos y la gestión de APIs RESTful.
+💻 Mi formación profesional se complementa con una sólida experiencia como Desarrollador Backend. He adquirido habilidades en el desarrollo y mantenimiento de plataformas web robustas, incluyendo e-commerce y sistemas de monitoreo, utilizando tecnologías como NestJS, Python (FastAPI y Django), manejando servidores desplegados en AWS. Mi experiencia se centra en la arquitectura de sistemas y planeación del software.
 
-📡 Esta base tecnológica se potencia con mi amplio conocimiento en el sector de las Telecomunicaciones y Redes, lo que me permite abordar proyectos desde una perspectiva integral, entendiendo tanto el software como la infraestructura de comunicación subyacente. Me entusiasma aplicar mis habilidades de programación, resolución de problemas cuantitativos y diseño de sistemas para ofrecer soluciones eficientes.</p>
+📡 Esta base tecnológica se potencia con mi amplio conocimiento en el sector de las Telecomunicaciones y Redes, lo que me permite abordar proyectos desde una perspectiva integral, entendiendo tanto el software como la infraestructura de comunicación subyacente. Siempre encantado aplicar mis habilidades de tecnología, resolución de problemas cuantitativos y diseño de sistemas para ofrecer soluciones eficientes.</p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
@@ -25,7 +25,7 @@
 
 <p> He trabajado en proyectos de Análisis de Datos, gestionando y analizando datos para departamentos de Logística y Producción. Esto lo que me llevó a crear mis primeros proyectos personales de Backend.
 
-Tengo experiencia en crear APIs modernas para sistemas de gestión de datos y conocimiento en sistemas de pago. Mis primeros proyectos fueron: consumir APIs para visualizar datos en página empresarial, contribuir en aportes al backend de aplicaciones de Ecommerce y Validación de Información. </p>
+Tengo experiencia en crear APIs modernas para sistemas de gestión de datos, en sistemas de pago y comercios electrónicos. Mis primeros proyectos fueron: crear APIs y microservicios para visualizar datos en página empresarial, contribuir en aportes al "backend" de aplicaciones de Ecommerce y Validación de Información para mejorar seguridad y monitoreo. </p>
 
 ## 📬 Contact me
 
