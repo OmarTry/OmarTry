@@ -14,10 +14,10 @@
 <img width="300px"  src="https://skillicons.dev/icons?i=py,ts,go,js&perline=10"  />
 
 - ## Frameworks
-  <img width="200px"  src="https://skillicons.dev/icons?i=nestjs,fastapi,angular,react&perline=10"  />
+  <img width="300px"  src="https://skillicons.dev/icons?i=nestjs,fastapi,angular,react&perline=10"  />
   
 - ## DataBases
-  <img width="200px"  src="https://skillicons.dev/icons?i=postgres,mongo,mysql&perline=10"  />
+  <img width="300px"  src="https://skillicons.dev/icons?i=postgres,mongo,mysql&perline=10"  />
 - ## Others Tools
 <img width="350px"  src="https://skillicons.dev/icons?i=aws,git,docker,terraform&perline=10"  />
 
